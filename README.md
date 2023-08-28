@@ -50,6 +50,8 @@ Output esperado
 
 De acordo com uma interpretação pessoal, dado a regra 4 do desafio proposto **(Todos os Jobs devem ser executados dentro da janela de execução (data início e fim))**, caso exista algum job na lista de array de entrada que não se encaixe dentro da janela de execução fornecida, esse job será descartado.
 
+Vídeo contendo breve explicação https://www.youtube.com/watch?v=GNRltaG_VUI
+
 ## Configuração do projeto
 Abra o terminal e rode os seguintes comandos:
 
